@@ -6,19 +6,19 @@ Welcome to my GitHub profile!
 ### 💻 Programming Languages
 Exploring different programming languages is part of the journey. Some are used for building projects, others for experimenting and learning new concepts. Together, they form the toolkit for tackling a variety of coding challenges.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas249&layout=compact&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas249&layout=compact&theme=dark&disable_animations=true) 
 
 ---
 ### 🏆 LeetCode
 Solving problems and participating in contests has been a way to grow and sharpen skills over time. The stats show progress and milestones, and a graph illustrates how performance has evolved through consistent practice.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Lukas249?ext=contest) 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Lukas249?ext=contest&animation=false)](https://leetcode.com/u/Lukas249)
 
 ---
 ### 🌐 Stack Overflow
 Engaging with the developer community is an important part of learning. Answering questions and sharing knowledge helps reinforce understanding and contributes to collective growth, creating a small but meaningful impact.
 
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=17322895)
+[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=17322895)](https://stackoverflow.com/users/17322895/lukas249)
 <!--
 **Lukas249/Lukas249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
