@@ -5,7 +5,8 @@ Welcome to my GitHub profile!
 ---
 ### 💻 Programming Languages
 Exploring different programming languages is part of the journey. Some are used for building projects, others for experimenting and learning new concepts. Together, they form the toolkit for tackling a variety of coding challenges.
-![Top Langs](https://github-readme-stats-lukas249s-projects.vercel.app/api/top-langs/?username=Lukas249&layout=compact&theme=dark&disable_animations=true&hide=Jupyter%20Notebook) 
+
+![Top Langs](https://github-readme-stats-blush-omega-21.vercel.app/api/top-langs/?username=Lukas249&layout=compact&theme=dark&disable_animations=true&hide=Jupyter%20Notebook) 
 
 ---
 ### 🏆 LeetCode
