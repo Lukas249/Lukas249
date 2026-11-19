@@ -10,7 +10,7 @@ Here is a breakdown of the programming languages I use most across my repositori
 
 ---
 ### 🏆 LeetCode
-I use LeetCode to practice data structures, algorithms, and tackle various coding challenges.
+Beyond building applications, I enjoy tackling algorithmic problems and testing my skills in coding contests. Here is a summary of my progress and stats on LeetCode.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Lukas249?ext=contest&animation=false)](https://leetcode.com/u/Lukas249)
 
